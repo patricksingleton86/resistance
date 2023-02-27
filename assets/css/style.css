@@ -9,13 +9,13 @@ body {
 
 .navbar-brand {
     font-family: 'Piedra', sans-serif;
-    font-size: 3em;
+    font-size: 4em;
     color: #7d9b9f;
 }
 
 .nav-menu {
     font-family: 'Roboto', sans-serif;
-    padding-left: 2em;
+    padding-left: 3em;
     float: right;
     text-align: center;
     color: #7d9b9f;
@@ -26,8 +26,9 @@ body {
 }
 
 .nav-item {  
-    padding-left: 2em;
+    padding-left: 3em;
 }
+
 .navbar i {
     color: #7d9b9f;
     font-size: 1.5em;

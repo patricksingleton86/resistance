@@ -25,8 +25,10 @@ body {
     color: #7d9b9f;
 }
 
-.nav-item {  
-    padding-left: 3em;
+.nav-item {
+    font-size: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .navbar i {

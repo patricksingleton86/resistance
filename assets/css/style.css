@@ -5,10 +5,10 @@ body {
     color: #7d9b9f;
 }
 
-.callout-resistance {
+.callout {
     height: 100vh;
 
-    background: url("../images/pexels-leon-ardho-1552252.jpg") no-repeat center center fixed;
+    background: url("assets/images/pexels-leon-ardho-1552252.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

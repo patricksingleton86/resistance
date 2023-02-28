@@ -5,37 +5,38 @@ body {
     color: #7d9b9f;
 }
 
-/*--------------------nav*/
+.callout-resistance {
+    height: 100vh;
 
-.navbar-brand {
-    font-family: 'Piedra', sans-serif;
-    font-size: 3em;
+    background: url("../images/pexels-leon-ardho-1552252.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-text {
     color: #7d9b9f;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5em;
 }
 
-.nav-menu {
-    font-family: 'Roboto', sans-serif;
-    padding-left: 2em;
-    float: right;
-    text-align: center;
-    color: #7d9b9f;
-}
-
-.nav-link {
-    color: #7d9b9f;
-}
-
-.nav-item {
-    font-size: 2em;
-    padding-left: 2em;
-    padding-right: 2em;
-}
-
-.navbar i {
-    color: #7d9b9f;
-    font-size: 1.5em;
-}
-
-.navbar-collapse {
-    justify-content: flex-end;
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
 }

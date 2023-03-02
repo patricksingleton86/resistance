@@ -20,6 +20,8 @@ body {
 }
 
 .jumbotron {
+    position: absolute;
+    top: 2em;
     background-color: transparent;
 }
 

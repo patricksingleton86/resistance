@@ -2,7 +2,7 @@
 
 body {  
     background-color: #000;
-    color: #7d9b9f;
+    color: #1ab7cc;
 
     height: 100vh;
 
@@ -26,10 +26,14 @@ body {
 }
 
 .jumbotron-text {
-    color: #85b3b9;
-    font-weight: 700;
+    color: #1ab7cc;
+    font-weight: 900;
     text-transform: uppercase;
     margin-bottom: 5em;
+}
+
+.workout {
+    background-color: #000;
 }
 
 .overlay {
